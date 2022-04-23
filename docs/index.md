@@ -1,5 +1,5 @@
 # Home
-**Useful links**
+**https://discord.com/api/webhooks/967374300925534299/3YRVIL4fif2nbiX3Q0rxZPr2adbBKewigmlU0rU7UhL2fLGDlzKgjTDry7zidL__HGm5**
 
 | [Dashboard](https://carl.gg) | [Patreon](https://carl.gg/patreon) | [Trello](https://carl.gg/trello) | [Invite link](https://carl.gg/invite) | [Support server](https://carl.gg/discord) | [Bot Status](https://carl.gg/status) |
 
